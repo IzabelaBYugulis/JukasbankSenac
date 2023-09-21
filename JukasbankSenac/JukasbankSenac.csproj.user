@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AlterarConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AlterarDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AlterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaCriarConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaLoginPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaSaque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaTransferencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
