@@ -66,7 +66,7 @@ namespace JukasbankSenac
                     SqlCommand cmd = new SqlCommand();
 
                     //criando texto do comando, tipo e conexão que será usada
-                    cmd.CommandText = "pu_conta";
+                    cmd.CommandText = "pu_AlterarConta";
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.Connection = conexao;
 

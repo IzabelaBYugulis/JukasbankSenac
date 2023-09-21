@@ -39,13 +39,12 @@ namespace JukasbankSenac
             try
             {
 
-                SqlConnection conexao =
-                new SqlConnection(ConfigurationManager.ConnectionStrings["JukasbankSenac.Properties.Settings.strConexao"].ToString());
+                SqlConnection conexao =new SqlConnection(ConfigurationManager.ConnectionStrings["JukasbankSenac.Properties.Settings.strConexao"].ToString());
                 SqlDataReader leitor;
 
                 SqlCommand cmd = new SqlCommand();
 
-                cmd.CommandText = "ps_ValidarSenhaConta";
+                cmd.CommandText = "ps_ValidarAcesso";
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Connection = conexao;
 

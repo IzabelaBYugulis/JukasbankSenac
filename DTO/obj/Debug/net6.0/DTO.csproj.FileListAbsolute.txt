@@ -1,0 +1,11 @@
+D:\dev\JukasbankSenac\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\dev\JukasbankSenac\DTO\bin\Debug\net6.0\DTO.dll
+D:\dev\JukasbankSenac\DTO\bin\Debug\net6.0\DTO.pdb
+D:\dev\JukasbankSenac\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\JukasbankSenac\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\dev\JukasbankSenac\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\dev\JukasbankSenac\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\dev\JukasbankSenac\DTO\obj\Debug\net6.0\DTO.dll
+D:\dev\JukasbankSenac\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\dev\JukasbankSenac\DTO\obj\Debug\net6.0\DTO.pdb
+D:\dev\JukasbankSenac\DTO\obj\Debug\net6.0\ref\DTO.dll

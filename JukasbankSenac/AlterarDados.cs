@@ -60,7 +60,7 @@ namespace JukasbankSenac
 
                     SqlCommand cmd = new SqlCommand();
 
-                    cmd.CommandText = "pu_alterarDados";
+                    cmd.CommandText = "pu_alterarCliente";
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.Connection = conexao;
 

@@ -27,7 +27,7 @@ namespace JukasbankSenac
             SqlCommand cmd = new SqlCommand();
 
             //criando texto do comando, tipo e conexão que será usada
-            cmd.CommandText = "ps_ValidarLogin";
+            cmd.CommandText = "ps_ValidarAcesso";
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Connection = conexao;
 
@@ -67,7 +67,7 @@ namespace JukasbankSenac
                 leitor.Close();
 
                 //criando texto do comando, tipo e conexão que será usada
-                cmd.CommandText = "ps_buscaContasPorIdCliente";
+                cmd.CommandText = "ps_BuscaContasId";
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Connection = conexao;
 
